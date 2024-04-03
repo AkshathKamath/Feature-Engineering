@@ -1,1 +1,1 @@
-Fetaure Engineering, Feature Selection
+Handling NaN, Categorical values, Feature Scaling, Feature Selection
